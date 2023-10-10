@@ -40,6 +40,7 @@ The application is built using PyQt5 and consists of the following components:
 - `get_local_time()`: Function to get the current local time.
 - `sync_system_time_with_ntp()`: Function to synchronize the system time with an NTP server.
 
+# README Italiano
 # Atomic Time Synch
 
 **Autore**: Bocaletto Luca  
