@@ -8,7 +8,10 @@
 
 Atomic Time Synch is a Python application that allows you to synchronize your system time with an atomic time source using the Network Time Protocol (NTP). It provides both manual and automatic time synchronization options and allows you to choose from different NTP servers.
 
+![Screenshot 2023-10-10 084823](https://github.com/elektronoide/Atomic-Time-Synch/assets/134635227/265a98a6-43d5-45ed-85d5-63d40659576c)
+
 ## Features
+
 
 - Manually update the system time.
 - Automatically synchronize the system time at specified intervals.
