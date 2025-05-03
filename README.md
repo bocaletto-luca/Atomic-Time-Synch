@@ -1,7 +1,9 @@
 # Atomic Time Synch
 
-**Author**: Bocaletto Luca  
-**Website**: [https://www.elektronoide.it](https://www.elektronoide.it)  
+**Author:** Bocaletto Luca
+
+**Language:** Python
+
 **License**: GPLv3
 
 ## Overview
@@ -11,7 +13,6 @@ Atomic Time Synch is a Python application that allows you to synchronize your sy
 ![Screenshot 2023-10-10 084823](https://github.com/elektronoide/Atomic-Time-Synch/assets/134635227/265a98a6-43d5-45ed-85d5-63d40659576c)
 
 ## Features
-
 
 - Manually update the system time.
 - Automatically synchronize the system time at specified intervals.
@@ -42,28 +43,3 @@ The application is built using PyQt5 and consists of the following components:
 - `get_atomic_time()`: Function to retrieve atomic time from an NTP server.
 - `get_local_time()`: Function to get the current local time.
 - `sync_system_time_with_ntp()`: Function to synchronize the system time with an NTP server.
-
-# README Italiano
-# Atomic Time Synch
-
-**Autore**: Bocaletto Luca  
-**Sito Web**: [https://www.elektronoide.it](https://www.elektronoide.it)  
-**Licenza**: GPLv3
-
-## Panoramica
-
-Atomic Time Synch è un'applicazione Python che consente di sincronizzare l'orario del sistema con una fonte di tempo atomico utilizzando il Protocollo di Tempo di Rete (NTP). Fornisce opzioni di sincronizzazione temporale sia manuali che automatiche e consente di scegliere tra diversi server NTP.
-
-## Funzionalità
-
-- Aggiornamento manuale dell'orario di sistema.
-- Sincronizzazione automatica dell'orario di sistema a intervalli specificati.
-- Scelta da un elenco di server NTP per la sincronizzazione dell'orario.
-- Visualizzazione dell'orario atomico e dell'orario locale.
-
-## Installazione
-
-Per eseguire Atomic Time Synch, è necessario avere Python e PyQt5 installati. Puoi installare PyQt5 usando il seguente comando:
-
-```bash
-pip install PyQt5
