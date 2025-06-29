@@ -43,3 +43,13 @@ The application is built using PyQt5 and consists of the following components:
 - `get_atomic_time()`: Function to retrieve atomic time from an NTP server.
 - `get_local_time()`: Function to get the current local time.
 - `sync_system_time_with_ntp()`: Function to synchronize the system time with an NTP server.
+
+---
+
+**Note**: Ensure that you have installed all the necessary dependencies before running the application.
+
+**Maintainer Update**
+
+My current GitHub account is **@bocaletto-luca**, which is now the official maintainer of all projects previously published under the **@Elektronoide** account. Please direct any issues, pull requests, or stars to **@bocaletto-luca** for future updates.
+
+---
